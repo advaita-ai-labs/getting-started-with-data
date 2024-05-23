@@ -11,7 +11,6 @@ At Advaita AI, we believe in democratizing data science education. Our Medium ar
 Here's what you can find in this repository:
 
 - **Articles**: Each directory corresponds to a Medium article and contains all the related resources.
-  - **Getting Started with Exploratory Data Analysis on Titanic Dataset**: Code, datasets, and notebooks
 
 ## Getting Started
 
@@ -25,7 +24,7 @@ To get the most out of this repository, follow these steps:
 
 2. **Navigate to the Article Directory**:
    ```bash
-   cd article-title-1
+   cd article-title-1 # whichever article interested you enough to come here!
    ```
 
 3. **Install Necessary Dependencies**:
